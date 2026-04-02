@@ -17,7 +17,7 @@ To run the website locally, clone the repository and run the following commands 
 
 python manage.py runserver
 
-The website will then be available at http://127.0.0.1:8000/
+The website will then be available at http://localhost:8000/
 
 ## Built With
 
